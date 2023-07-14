@@ -1,5 +1,5 @@
 # Luna-Nuker
   Fastest Python Discord Nuker!
-
-# If You Use The Same Methods I Used
-  Give Me Fucking Credits
+1.Open Luna-Nuker.py
+2.When the Luna-Nuker.py is closed Scrape.py
+3.You get the best discord nuker tool
